@@ -72,10 +72,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanseGomezM&show_icons=true&theme=radial" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanseGomezM&layout=compact&theme=radial" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JuanseGomezM&show_icons=true&theme=radial" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuanseGomezM&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
-
 ---
 
 📫 **Contacto:** [jgomezm.jgm@gmail.com](mailto:jgomezm.jgm@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/juansegomezm)
