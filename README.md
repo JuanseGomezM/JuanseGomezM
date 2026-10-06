@@ -1,4 +1,4 @@
-# Hi there, I'm Juansebastian Gómez 👋
+# Hello there, I'm Juansebastian Gómez Muñoz 👋
 
 ### Senior Business Analyst & Data Analytics Specialist | MSc-Physicist
 
